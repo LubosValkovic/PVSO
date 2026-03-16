@@ -50,9 +50,6 @@ Výsledkom je:
 - detekcia tvarov v obraze,
 - zvýraznenie vybraných farebných oblastí.
 
-## Spustenie
-1. Pripoj kameru Ximea.
-2. Nainštaluj potrebné knižnice.
-3. Spusť Python skript.
+
 
 
